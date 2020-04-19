@@ -1,0 +1,11 @@
+C:\development\startng\csharp\csharpTask3\bin\Debug\netcoreapp3.1\csharpTask3.exe
+C:\development\startng\csharp\csharpTask3\bin\Debug\netcoreapp3.1\csharpTask3.deps.json
+C:\development\startng\csharp\csharpTask3\bin\Debug\netcoreapp3.1\csharpTask3.runtimeconfig.json
+C:\development\startng\csharp\csharpTask3\bin\Debug\netcoreapp3.1\csharpTask3.runtimeconfig.dev.json
+C:\development\startng\csharp\csharpTask3\bin\Debug\netcoreapp3.1\csharpTask3.dll
+C:\development\startng\csharp\csharpTask3\bin\Debug\netcoreapp3.1\csharpTask3.pdb
+C:\development\startng\csharp\csharpTask3\obj\Debug\netcoreapp3.1\csharpTask3.csprojAssemblyReference.cache
+C:\development\startng\csharp\csharpTask3\obj\Debug\netcoreapp3.1\csharpTask3.AssemblyInfoInputs.cache
+C:\development\startng\csharp\csharpTask3\obj\Debug\netcoreapp3.1\csharpTask3.AssemblyInfo.cs
+C:\development\startng\csharp\csharpTask3\obj\Debug\netcoreapp3.1\csharpTask3.dll
+C:\development\startng\csharp\csharpTask3\obj\Debug\netcoreapp3.1\csharpTask3.pdb
